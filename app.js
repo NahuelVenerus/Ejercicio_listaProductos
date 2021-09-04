@@ -28,7 +28,7 @@ function ordenarPorNombre(){
 
 function ordenarPorPrecio(){
     listaDeProductos.sort(function(producto1, producto2){
-        return producto1.precio - producto2.precio
+        return producto2.precio - producto1.precio
     })
     listaDeProductos.forEach(producto => {
         const elemento = document.createElement('P')
