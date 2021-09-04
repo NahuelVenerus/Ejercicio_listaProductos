@@ -1,0 +1,4 @@
+1) Ante un objeto listaDeProductos poder filtrar por precio usando 3 botones (hasta 100,250,1000). Visualizarlos en el html cada vez que se filtra.
+2) Agregar un botón que permita ordenar la lista de productos  de forma ascendente por nombre de producto.
+3) Agregar un botón que permita ordenar la lista de productos de forma ascendente por precio de producto.
+
